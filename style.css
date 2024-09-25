@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 246, 246);
+    margin: 0px;
+    background-image: url(cat-meme-png-free-png-images-download-70785-768x761\ \(1\).png)
+    background-size; cover;
+}
+    header{
+    background-color: rgb(255, 0, 111);
+    padding-left: 0px;
+    }
+    .logo{
+        width: 80px;
+    }
